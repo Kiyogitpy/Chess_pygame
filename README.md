@@ -22,4 +22,3 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 Acknowledgments
 Thanks to the creators of Pygame and OpenCV, whose libraries made this project possible.
-Thanks to everyone who contributed to this project.
