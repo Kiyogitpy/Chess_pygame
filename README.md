@@ -1,6 +1,6 @@
 # Chess Pawn Movement Simulation
 
-This Python script simulates the movement of pawns in a game of chess. It uses the Pygame library for the graphical interface and OpenCV to handle image manipulation. Each pawn can move forward and capture diagonally, as per the rules of chess.
+This Python script simulates the movement of pawns in a game of chess. It uses the Pygame library for the graphical interface. Each pawn can move forward and capture diagonally, as per the rules of chess.
 
 ## Prerequisites
 
